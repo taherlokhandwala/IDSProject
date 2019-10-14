@@ -1,0 +1,4 @@
+1. Compare number of installs per category to find most popular and least popular categories.
+2. We will find the mean ratio for all apps (number of installs vs the number of people who have rated)
+    we will then consider ratios 25-75 percentile.
+3.  
