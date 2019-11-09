@@ -2,9 +2,9 @@
 
 2.
 
-3. We will find the  ratio for all apps (number of reviews vs the number installs)
-    we will then consider ratios 25-75 percentile and flag the remaining as kinda shady.
-    We will then consider the rating that is closest to the median ratio as a bench mark,
-    dispose of any apps that lie outside 1.5 IQR, and take the distance between farthest app within
-    range. Then we will calculate the percentage of reliability by calculating the ratio between the max dist,
-    and the dist between one of the app and ideal app.
+3. We will find the ratio for all apps (number of reviews vs the number installs)
+   we will then consider ratios 25-75 percentile and flag the remaining as kinda shady.
+   We will then consider the rating that is closest to the median ratio as a bench mark,
+   dispose of any apps that lie outside 1.5 IQR, and take the distance between farthest app within
+   range. Then we will calculate the percentage of reliability by calculating the ratio between the max dist,
+   and the dist between one of the app and ideal app.
